@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|c:\\users\\carlos\\desktop\\minimal apis course\\beetlemovies.api\\beetlemovie.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|solutionrelative:beetlemovies.api\\beetlemovie.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|c:\\users\\carlos\\desktop\\minimal apis course\\beetlemovies.api\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|solutionrelative:beetlemovies.api\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|c:\\users\\carlos\\desktop\\minimal apis course\\beetlemovies.api\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|solutionrelative:beetlemovies.api\\entities\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|c:\\users\\carlos\\desktop\\minimal apis course\\beetlemovies.api\\dbcontexts\\beetlemoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|solutionrelative:beetlemovies.api\\dbcontexts\\beetlemoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|c:\\users\\carlos\\desktop\\minimal apis course\\beetlemovies.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F24172-2716-46DB-8096-0EBC88166C76}|BeetleMovies.API\\BeetleMovies.API.csproj|solutionrelative:beetlemovies.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeetleMovie.db",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\BeetleMovie.db",
+              "RelativeDocumentMoniker": "BeetleMovies.API\\BeetleMovie.db",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\BeetleMovie.db",
+              "RelativeToolTip": "BeetleMovies.API\\BeetleMovie.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFUSURBVDhPrZE/SwNBEMXf7N2lCHcIuQv\u002B\u002BwQ2NqkS0UYQQSwUDAqiiNoEjShYCzZ2ljbBXpLCxkoQsVGws1BIEMxnEGMucMlYXBzJ5gwEfTDw5s3ub5dd4C9iZhMAtnePVpqt5oI\u002B7yXDMC4LREQAMJ/NFZl5CWB93S8igKh0VTzLKgBoMcOKWUi4Hlwv2bMSrgcrZoE5PEwJkxSICA2/LjU7ncbczERHRkQgkm0/gG991D6lRoaSGB0e7Mh0dQH6lakHk5kUqO2TXgKGoTCVScn8uVwVjyjAfm4NSoUIpcILHuysy3wrfyweUYDF1T3xh/kNmKaJk9OCZK7risd/vEE3oP2/kYqYdQEcx4Ztx2HbcdzcPeL69kF6x7H15SGAmREEARq\u002BHx7CBDCh8lpFufImPTPQ8H0EQSC3IQAYG09vxu2BZQ3eU/Xa\u002B8XL0/25nvetL02eezFgyhELAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-12-20T15:31:17.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeetleMoviesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\DBContexts\\BeetleMoviesContext.cs",
+              "RelativeDocumentMoniker": "BeetleMovies.API\\DBContexts\\BeetleMoviesContext.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\DBContexts\\BeetleMoviesContext.cs",
+              "RelativeToolTip": "BeetleMovies.API\\DBContexts\\BeetleMoviesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:24:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "BeetleMovies.API\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\Entities\\Movie.cs",
+              "RelativeToolTip": "BeetleMovies.API\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:24:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\Entities\\Director.cs",
+              "RelativeDocumentMoniker": "BeetleMovies.API\\Entities\\Director.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\Entities\\Director.cs",
+              "RelativeToolTip": "BeetleMovies.API\\Entities\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:24:50.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\Program.cs",
+              "RelativeDocumentMoniker": "BeetleMovies.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Minimal APIs Course\\BeetleMovies.API\\Program.cs",
+              "RelativeToolTip": "BeetleMovies.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:24:47.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
